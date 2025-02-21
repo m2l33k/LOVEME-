@@ -5,8 +5,8 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Being with you is my biggest blessing. I love you.";
-    gif.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF0bDFlcm4xZDRneDVzcWR2eTBuOXc2amFuaHRybjg2emltNGVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zrxazUScjhxo4/giphy.gif";
+    question.innerHTML = "tabaa jdid al page mala bech youftk chay ";
+    gif.src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp0Ymo2OTAxcTRzdjd4a2lyOHMwbHU5MTJoNjhmOTBraW00ZWZpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUEvrVHhGnkAH3OtMc/giphy.gif";
 
     // Hide the No button
     noBtn.style.display = "none";
